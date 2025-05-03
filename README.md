@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm SmillingCoder!
 
 I'm a junior developer passionate about building useful tools that solve real-world problems. Whether it's a dashboard for internal teams or a browser extension for productivity, I love turning ideas into working products.
 
