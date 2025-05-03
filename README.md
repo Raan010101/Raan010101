@@ -5,7 +5,7 @@ I'm a junior developer passionate about building useful tools that solve real-wo
 ## 💼 What I’m Working On
 - 🧭 **Wayfinding Dashboard** – Task tracker, clock-in/out logger & timesheet for onboarding 30+ team members.
 - 👗 **Wedding Dress Rental Website** – Full-stack React + TypeScript eCommerce site (in progress).
-- 📊 **Job Tracker App** – Manage tasks by agent, date, language & status with built-in reporting.
+- 📊 **Competitive Programimng** – Daily practice in Codeforces, HackerRank and Leetcode.
 
 ## 🎓 Currently Learning
 - 📘 Machine Learning & Deep Learning math foundations  
