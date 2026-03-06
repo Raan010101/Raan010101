@@ -3,7 +3,7 @@
 I'm a junior developer passionate about building useful tools that solve real-world problems. Whether it's a dashboard for internal teams or a browser extension for productivity, I love turning ideas into working products.
 
 ## 💼 What I’m Working On
-- ✈️ **AeroQuest: An Gamified Aeronautical App** – Full-stack React + TypeScript eCommerce site (in progress).
+- ✈️ **AeroQuest: An Gamified Aeronautical App** – A Flutter mobile app +  hosted DB in Supabase site (in progress).
 - 🧭 **ERP Dashboard** – (Coming Soon)
 
 ## 📫 Let’s Connect
